@@ -1,0 +1,1 @@
+let noSpace = (x) => x.split('').filter(x => x !== ` `).join('')
